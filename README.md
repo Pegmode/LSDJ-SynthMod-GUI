@@ -4,3 +4,5 @@ Modification of Hertz Devils LSDJ Synth (https://github.com/HertzDevil/LSDjSynth
 Comprised of LSDJSynth mod command line tool and LSDJSynth GUI ("LSDJ Gui Test" in source) which is a windows forms app written in C# that calls LSDJSynth mod without needing to type out synth parameters.
 
 NOTE: Run as Administrator if LSDJSynthMod doesn't generate files
+
+![alt text](https://raw.githubusercontent.com/Pegmode/LSDJ-SynthMod-GUI/master/LSDJSynthScreen.png)
